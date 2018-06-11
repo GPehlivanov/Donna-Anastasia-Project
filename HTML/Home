@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+ <html> 
+	<head>
+	  <meta charset = "utf-8">
+	  <meta name = "viewport" content= "width=device-width"> 
+	  <meta name = "description" content = "Handmade food">
+	  <meta name = "keywords" content = "Handmade, food, sweet, olive">
+	  <meta name = "author" content = "Georgi Pehlivanov">
+	  <title>Donna Anastasia | Welcome</title>
+	  <link rel="stylesheet" href="./CSS/style.css">
+	</head>
+	<body>
+	  <header>
+		<div class = "container">
+		  <div id="branding">
+			<h1>Donna Anastasia</h1>
+		  </div>
+		  <img src = "../Pictures/Logo.jpg" alt = "Donna Anastasia" style = "width:5%;height=5%;">
+		  <nav>
+		    <ul>
+			  <li><a href="home.html">Home</a></li>
+			  <li><a href="about.html">About</a></li
+			  <li><a href="products.html">Products</a></li>
+			  <li><a href="contact.html">Contact</a></li>
+			</ul>
+		  </nav>
+		</div>
+	  </header>
+	  
+	  <section id="showcase">
+		<div class="container">
+		  <h1>Natural handmade products</h1>
+		  <p>Our recipes do not start from today but are handed down from our loved ones</p>
+		</div>
+	  </section>
+	  
+	  <section id="boxes">
+		<div class="container">
+		  <div class="box">
+			<h3>Homemade marmelades whit honey</h3>
+			<p>Just one spoon`s enough to bring you from tradition to today</p>
+		  </div>
+		  <div class="box">
+			<h3>Goyrmet</h3>
+			<p>Combining and using spices with black chocolate and honey</p>
+		  </div>
+		  <div class="box">
+			<h3>Pomegrate</h3>
+			<p>Good taste of Pomegranate in absolute flavor combinations</p>
+		  </div>
+		</div>
+	  </section>
+	</body>
+ </html>
