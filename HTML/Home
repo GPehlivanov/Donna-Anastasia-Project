@@ -15,11 +15,11 @@
 		  <div id="branding">
 			<h1>Donna Anastasia</h1>
 		  </div>
-		  <img src = "../Pictures/Logo.jpg" alt = "Donna Anastasia" style = "width:5%;height=5%;">
+			<img src="../Pictures/Logo.jpg" alt="Donna Anastasia" Style="width5%;heught5%;">
 		  <nav>
 		    <ul>
 			  <li><a href="home.html">Home</a></li>
-			  <li><a href="about.html">About</a></li
+			  <li><a href="about.html">About</a></li>
 			  <li><a href="products.html">Products</a></li>
 			  <li><a href="contact.html">Contact</a></li>
 			</ul>
@@ -37,18 +37,25 @@
 	  <section id="boxes">
 		<div class="container">
 		  <div class="box">
+			<img src ="../Pictures/Marmelade.jpg" alt = "Marmelade" style = "width:5%;heught=5%;">
 			<h3>Homemade marmelades whit honey</h3>
 			<p>Just one spoon`s enough to bring you from tradition to today</p>
 		  </div>
 		  <div class="box">
-			<h3>Goyrmet</h3>
+			<img src ="../Pictures/goo.jpg" alt = "Gooyrmet" style = "width:5%;heught=5%;">
+			<h3>Goourmet</h3>
 			<p>Combining and using spices with black chocolate and honey</p>
 		  </div>
 		  <div class="box">
+			<img src = "../Pictures/Pomegrate.jpg" alt = "Pomegrate" style = "width:5%;heught=5%;">
 			<h3>Pomegrate</h3>
 			<p>Good taste of Pomegranate in absolute flavor combinations</p>
 		  </div>
 		</div>
 	  </section>
+	  
+	  <footer>
+		<p>Donna Anastasia, Copyright &copy; 2018</p>
+	  </footer>
 	</body>
  </html>
